@@ -1,0 +1,11 @@
+BUENA OSCARON!!!!
+
+Bienvenido a tu primer desafio de programacion! jajajajaj
+
+ya wn mira acá estan los famosos datos de Dantzing para el TSP, estos datos son el primer desafio que todo ruteador tiene, la prueba básica de muchos algoritmos de opti se hacen con estos datos. 
+
+Es una matriz de distancia de 42 ciudades, no hay mayores restricciones, solo debes visitar todas las ciudades, con la menor distancias posible. Mi recomendación cómo es el nivel fácil, es que apliques un algoritmo de tipo Greedy (el clásico que nos enseñaba Reinoso en Opti 2), googlea el Vecino más cercano y listo lo encontraras.
+
+El camino óptimo es de 699. Calcula el GAP de tu algoritmo (La diferencia entre tu solucion y el óptimo).
+
+Haz el algoritmo en Python y te recomiendo utilizar la libreria de numpy o pandas para el ingreso y almacenamiento de datos.

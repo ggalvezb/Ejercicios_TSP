@@ -1,0 +1,14 @@
+Desafio Dificil!
+
+Acá te deje datos reales de una consultorio que hice hace un tiempo, los datos originalmente venian sin geolocalización, pero para no ser muy maricon te los deje ya geolocalizados, aunque si quieres puedes borrar las geoloc y hacerlo tu mismo con las apis de Openstreetmap o de Googlemaps. 
+
+Estos son datos de 670 clientes, en formato CSV, que la empresa tiene en Santiago, la meta es que armes un ruteo para ellos, tienen que visitar a todos los clientes al menos una vez al mes, tratando de ocupar a lo más 4 vehículos, pero ojo la idea es que sea la menor cantidad de vehículos posible. 
+
+Recomendaciones: 
+- Si o Si usar pandas para manejar los datos.
+
+- Podrias tratar de apliar un algoritmo de clustering (K-means) para facilitar el trabajo. Aca pudes usar de criterio su localizacion fisica o quizas algun criterio mas propio del clientes, onda sus niveles de venta, entonces visitas primero a los que más venden, no se ahí inventa tu.
+
+- Por razones de un contrato de cofidencialidad no te puedo mostrar el punto de origen de los vehículos, asi que escoge tú el punto que más te convenga o ponlo donde te de la puta gana. 
+
+-Si necesitas subir el número de vehículos dale no mas, pero recuerda que tendra costos económicos para la empresa.

@@ -1,0 +1,3 @@
+Segundo nivel!
+
+Ahora los datos vienen en formato de coordenadas X e Y, son 280 ciudades, tu tienes que armar la matriz de distancia y resolver con una metaheuristica simple! Te recomiendo un LocalSearch. Te recomiendo que uses pandas para el ingreso de los datos y su manejo.
